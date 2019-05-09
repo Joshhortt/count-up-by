@@ -1,0 +1,17 @@
+body {
+  margin: 20px;
+  font-size: 1.2em;
+  background-color: rgb(201, 201, 201);
+}
+
+h1  {
+  margin-bottom: 30px;
+}
+
+input  {
+  max-width: 80px;
+}
+
+#btn-submit  {
+  margin-bottom: 20px;
+}
